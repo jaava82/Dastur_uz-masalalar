@@ -1,0 +1,25 @@
+# 2-Masala
+# def PowerA234(a, b, c, d):
+#     print(a ** 3, b ** 3, c ** 3, d ** 3)
+#     print(a ** 2, b ** 2, c ** 2, d ** 2)
+#     print(a ** 4, b ** 4, c ** 4, d ** 4)
+
+# PowerA234(2, 3, 4, 5)
+
+
+# 3-Masala
+# def MEAN(a, b, c, d):
+#     print((a + b) / 2), ((a + c) / 2), ((a + d) / 2)
+#     print((a * b) ** (1 / 2)), ((a * c) ** (1 / 2)), ((a * d) ** (1 / 2))
+#
+#
+# MEAN(64, 49, 81, 121)
+
+
+# 4-Masala
+# def triangle(a, b, h):
+#     print((2 * a * b))
+#     print((a * h) / 2)
+#
+#
+# triangle(2, 5, 2)
